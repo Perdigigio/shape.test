@@ -1,0 +1,8 @@
+[submodule "modules/core"]
+	path = modules/core
+	url = https://github.com/Perdigigio/shape.core.git
+	branch = master
+[submodule "modules/glfw"]
+	path = modules/glfw
+	url = https://github.com/glfw/glfw.git
+	branch = 3.3-stable
